@@ -1,0 +1,12 @@
+{
+  "name": "nativo",
+  "version": "1.0.0",
+  "description": "Server iniciado, assets asicrono con Nodejs Puro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Joel Gonzales Tipismana",
+  "license": "MIT"
+}
